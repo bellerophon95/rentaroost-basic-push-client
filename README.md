@@ -1,5 +1,10 @@
 ## Basic Push Client for Rentaroost
-Firebase push client that supports topic-based push notifications
+Firebase push client that supports topic-based push notifications. Code for service working registration and message recepit and event handling via Firebase client SDK is included.
+
+
+
+
+#DEPLOYMENT INSTTRUCTIONS
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
